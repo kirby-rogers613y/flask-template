@@ -8,3 +8,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Reviewed open issues, added labels
+
+## 2026-04-29
+- Removed unused variable declarations
+- Reorganised test fixtures
+- Added basic usage examples to README
