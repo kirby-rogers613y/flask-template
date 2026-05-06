@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Added inline documentation for core functions
 - Added type hints to helper functions
+
+## 2026-05-06
+- Reviewed open issues, added labels
+- Added basic usage examples to README
+- Resolved deprecation warnings
