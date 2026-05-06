@@ -22,3 +22,8 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Added basic usage examples to README
 - Resolved deprecation warnings
+
+## 2026-05-06
+- Added basic retry logic for network requests
+- Improved error handling in edge cases
+- Updated .gitignore to exclude build artifacts
